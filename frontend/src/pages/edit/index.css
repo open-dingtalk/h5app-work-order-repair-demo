@@ -1,0 +1,76 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+html, body, #root, .App {
+  height: 100%;
+}
+
+.page {
+	padding-top: 45px;
+	padding-bottom: 60px;
+  height: 100%;
+  overflow-y: auto;
+  position: relative;
+}
+
+.page-edit h4 {
+  padding-left: 20px;
+  font-size: 14px;
+}
+
+.adm-list-item-content {
+  padding-right: 50px;
+}
+
+.del-btn {
+  float: right;
+  margin-top: -50px;
+  margin-right: 20px;
+}
+
+.page-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.navbar-box {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background-color: #fff;
+}
+
+.swiper-item-box {
+  position: relative;
+}
+.swiper-item-box .mask {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+.swiper-item-box img {
+  width: 100%;
+  height: auto;
+}
+
+.submit-box {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 60px;
+  padding: 11px 24px;
+  background-color: #fff;
+}
+
+
+.form {
+  text-align: left;
+}
+
+
+.form-banner img {
+  width: 100%;
+}

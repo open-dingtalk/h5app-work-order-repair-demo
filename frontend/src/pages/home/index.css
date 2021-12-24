@@ -1,0 +1,13 @@
+.main{
+  padding: 24px;
+}
+
+.title{
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.button{
+  margin-top: 16px;
+}

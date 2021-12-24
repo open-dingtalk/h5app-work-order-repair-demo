@@ -1,0 +1,46 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+html, body, #root, .App {
+  height: 100%;
+}
+
+.page {
+	padding-top: 45px;
+	padding-bottom: 60px;
+  height: 100%;
+  overflow-y: auto;
+  position: relative;
+}
+
+.page-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.navbar-box {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background-color: #fff;
+}
+
+.submit-box {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 60px;
+  padding: 11px 24px;
+  background-color: #fff;
+}
+
+
+.form {
+  text-align: left;
+}
+
+
+.form-banner img {
+  width: 100%;
+}
