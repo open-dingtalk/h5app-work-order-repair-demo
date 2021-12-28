@@ -168,7 +168,7 @@ npm run build
 
 - 启动springboot
 - 移动端钉钉点击工作台，找到应用，进入应用
-- 在配置群机器人安全性设置时勾选关键词，填写“工单消息”
+- 在配置群机器人安全性设置时勾选自定义关键词，填写“工单消息”
 
 ### 页面展示
 页面  ![1_page_index.png](https://img.alicdn.com/imgextra/i1/O1CN01JVbuT225QD98ihIVI_!!6000000007520-0-tps-592-1280.jpg)
