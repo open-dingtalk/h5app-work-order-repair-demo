@@ -168,21 +168,18 @@ npm run build
 
 - 启动springboot
 - 移动端钉钉点击工作台，找到应用，进入应用
+- 在配置群机器人安全性设置时勾选自定义关键词，填写“工单消息”
 
 ### 页面展示
-![1_page_index.png](https://img.alicdn.com/imgextra/i1/O1CN01JVbuT225QD98ihIVI_!!6000000007520-0-tps-592-1280.jpg)
+页面  ![1_page_index.png](https://img.alicdn.com/imgextra/i1/O1CN01JVbuT225QD98ihIVI_!!6000000007520-0-tps-592-1280.jpg)
 
-添加群机器人
-![2_add_robot.png](https://img.alicdn.com/imgextra/i3/O1CN01ZLoUyk1bAErKUznFb_!!6000000003424-2-tps-676-588.png)
+添加群机器人  ![2_add_robot.png](https://img.alicdn.com/imgextra/i3/O1CN01ZLoUyk1bAErKUznFb_!!6000000003424-2-tps-676-588.png)
 
-配置工单
-![3_configuration_form.png](https://img.alicdn.com/imgextra/i3/O1CN01voTWSY1hCQRhtRvRG_!!6000000004241-0-tps-592-1280.jpg)
+配置工单  ![3_configuration_form.png](https://img.alicdn.com/imgextra/i3/O1CN01voTWSY1hCQRhtRvRG_!!6000000004241-0-tps-592-1280.jpg)
 
-填写工单
-![4_submit_form.png](https://img.alicdn.com/imgextra/i2/O1CN01eCr2Nh26tLxjPPZqw_!!6000000007719-0-tps-592-1280.jpg)
+填写工单  ![4_submit_form.png](https://img.alicdn.com/imgextra/i2/O1CN01eCr2Nh26tLxjPPZqw_!!6000000007719-0-tps-592-1280.jpg)
 
-群机器人工单消息通知
-![5_robot_msg_notify.png](https://img.alicdn.com/imgextra/i1/O1CN01UNVhqC1g9OCloXDKX_!!6000000004099-0-tps-592-1280.jpg)
+群机器人工单消息通知  ![5_robot_msg_notify.png](https://img.alicdn.com/imgextra/i1/O1CN01UNVhqC1g9OCloXDKX_!!6000000004099-0-tps-592-1280.jpg)
 
 ### **参考文档**
 
